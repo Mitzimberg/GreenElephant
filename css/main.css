@@ -1,1 +1,12 @@
-/* Place CSS styles here */
+body{
+    background-color: #00cf26;
+}
+
+label{
+    display: block;
+    margin-bottom: 8px;
+}
+
+.logo{
+    max-width: 80px;
+}
